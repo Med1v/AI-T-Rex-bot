@@ -9,7 +9,7 @@ data = arr[arr.files[0]]
 print(data)
 # print(len(arr[arr.files[0]][0][0]))
 
-
+# useless. Used for failed improvements
 def change_data(data):
     if len(data[0][0]) > 1220:
         print("file already changed")
