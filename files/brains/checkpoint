@@ -1,0 +1,2 @@
+model_checkpoint_path: "D:/Develop/TensorFlow/TRex/files/brains/TRex.brain"
+all_model_checkpoint_paths: "D:/Develop/TensorFlow/TRex/files/brains/TRex.brain"
