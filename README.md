@@ -5,10 +5,10 @@ Used this project to learn about Tensor Flow and Machine Learning.
 This is my first AI project ever.
 Surprisingly for me it worked pretty well.
 
-## Version without human help
+## Version 1 without view shifting
 Learned by itself by looking into records of me playing. Record score was 3k but on avarage it went to about 2k.
 
-## Version with human help
+## Version with view shifting
 By ~~cheating~~ hardcoding increase of speed overtime by shifting view of the bot to the right. That makes him jump earlier even without understanding what is ~~time~~ speed.
 It's record score was 17,715. Probably with better adjustments it's possible to beat the record but that record run took 1004 second (or 16.7 minutes) and I'm bored of waiting even more.
 
